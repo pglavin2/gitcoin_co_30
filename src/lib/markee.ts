@@ -1,10 +1,10 @@
 export const LEADERBOARD_ADDRESS =
-  "0x710dA4C477EDf1052Ea876aEEf3E153Fb040Fa9f" as const;
+  "0x9c86db5cfd00805727929e8b85884df4cadaff07" as const;
 
 export const LEADERBOARD_ADDRESS_LOWER = LEADERBOARD_ADDRESS.toLowerCase();
 
 export const BUY_URL =
-  "https://markee.xyz/ecosystem/website/0x710dA4C477EDf1052Ea876aEEf3E153Fb040Fa9f";
+  "https://markee.xyz/ecosystem/website/0x9c86db5cfd00805727929e8b85884df4cadaff07";
 
 export const API_URL = "/api/markee/leaderboards";
 
