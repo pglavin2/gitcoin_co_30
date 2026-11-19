@@ -3,6 +3,21 @@
 A comprehensive directory of funding mechanisms, apps, campaigns, research, and case studies for public goods funding in the Ethereum ecosystem.
 
 <!-- MARKEE:START:0xbafcbb86cd5b54838b624d1cc2baee402a340bbc -->
+```
+  ╔══════════════════════════════════════════════════════╗
+  ║                  ⡷⢾ ⣎⣱ ⣏⡱ ⣇⠜ ⣏⡉ ⣏⡉                 ║
+  ║                  ⠇⠸ ⠇⠸ ⠇⠱ ⠇⠱ ⠧⠤ ⠧⠤                 ║
+  ╠══════════════════════════════════════════════════════╣
+  ║                                                      ║
+  ║   winter is coming...                                ║
+  ║                                                      ║
+  ╠══════════════════════════════════════════════════════╣
+  ║          Stream over 0.001 ETH/mo to change          ║
+  ╚══════════════════════════════════════════════════════╝
+                 ││                      ││
+   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+*Show the world you support this repo! [Change this message at markee.xyz](https://markee.xyz/markee/0xbafcbb86cd5b54838b624d1cc2baee402a340bbc) ^*
 <!-- MARKEE:END:0xbafcbb86cd5b54838b624d1cc2baee402a340bbc -->
 
 ## Adding Content
