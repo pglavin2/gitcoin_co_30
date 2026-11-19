@@ -2,6 +2,9 @@
 
 A comprehensive directory of funding mechanisms, apps, campaigns, research, and case studies for public goods funding in the Ethereum ecosystem.
 
+<!-- MARKEE:START:0xbafcbb86cd5b54838b624d1cc2baee402a340bbc -->
+<!-- MARKEE:END:0xbafcbb86cd5b54838b624d1cc2baee402a340bbc -->
+
 ## Adding Content
 
 ### Method 1: Via GitHub Issues (Recommended)
